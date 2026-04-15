@@ -1,8 +1,12 @@
-<!-- Typing Animation -->
+<!-- 🔥 Animated Banner -->
 
-<h1 align="center">
-  Hi 👋, I'm Surya Prakash
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Surya%20Prakash&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
+
+<!-- 👋 Typing Animation -->
+
+<h1 align="center">Hi 👋, I'm Surya Prakash</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Apps;Open+to+Internships" />
@@ -14,7 +18,7 @@
 
 * 🎓 B.Tech IT @ NIET 
 * 💻 Full Stack Developer (MERN)
-* 🌱 Currently learning Backend + System Design
+* 🌱 Currently learning Backend & System Design
 * 🎯 Goal: Crack Product-Based Companies
 
 ---
@@ -43,7 +47,7 @@
 * 💳 Payment Integration
 * 📚 Course Creation & Management
 
-🔗 Repo: https://github.com/suryaprakash3601/StudyNotion
+🔗 GitHub Repo: https://github.com/suryaprakash3601/StudyNotion
 
 ---
 
@@ -57,12 +61,36 @@
 
 ---
 
+## 📈 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryaprakash3601&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suryaprakash3601&theme=onestar&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/surya-prakash-it/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suryaprakash3601/suryaprakash3601/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
